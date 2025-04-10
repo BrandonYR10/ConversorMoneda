@@ -1,5 +1,3 @@
-# ConversorMoneda
-
 # 💱 Conversor de Moneda
 
 Aplicación en Java para convertir monedas utilizando la API de [ExchangeRate-API](https://www.exchangerate-api.com/). Esta app interactúa con el usuario mediante consola, realiza solicitudes HTTP y procesa respuestas en formato JSON usando la biblioteca Gson.
